@@ -103,7 +103,6 @@
 ## 페이지별 기능
 ### 레시피 메인
   - 화살표 클릭 혹은 드레그시 slick을 이용하여 다른 상품들을 보여줍니다.
-    ![메인페이지_화면이동
 ### 랭킹 페이지 
   - 레시피 / 검색어 / 쉐프(유저)를 [일간 / 주간 / 월간]을 기준으로 순위를 적용한 랭킹페이지를 보여줍니다.
 ### 레시피 분류 / 검색
@@ -121,7 +120,9 @@
  글쓰기(로그인 필요)
  - 레시피 제목(필수), 소개와 레시피 카테고리(필수), 재료와 조리순서를 작성할 수 있습니다.
  - 페이지 하단에는 '저장하기'(미완성 상태,  마이페이지에서 본인만 볼 수 있는 상태로 추후 수정이 가능합니다.),  '저장 후 공개하기'(완성 상태,  타 유저에게 공개되며 추후에 수정이 가능합니다.),  '취소하기'(메인페이지로 이동합니다.) 버튼이 있습니다.
+
 시연 영상(https://www.canva.com/design/DAF82TK7_vA/ypTQf6kEBpeABW9iucfyOw/edit?utm_content=DAF82TK7_vA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ### 스토어 메인
   - 화살표 클릭시 slick을 이용하여 다른 상품들을 보여줍니다.
     ![메인페이지_slick gif](https://github.com/ram9611/recipe-store-project/assets/66862342/3ae5d01f-8793-48e0-92fa-9a1e214da2cc)
