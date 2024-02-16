@@ -160,7 +160,7 @@ $(function() {
 		
 		delete_note.on("click", function() {
 			if(confirm("정말 삭제하시겠습니까?")) {
-				let recipe_id = Number($(".input_recipe_id").val());
+				let recipe_id = $(this).parent().parent().parent().children(".input_recipe_id").val();
 				location.href = "Controller?command=mypage_recipenote_delete&recipeId=" + recipe_id;
 			}
 		})

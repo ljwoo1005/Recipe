@@ -15,7 +15,7 @@ public class MyPageRecipeNoteModifyAction implements Action {
 		// 세션 객체 생성
 		HttpSession session = request.getSession();
 		String loginId = (String)session.getAttribute("loginId"); // 로그인 계정 ID 가져오기
-		int recipeId = Integer.parseInt(request.getParameter("modify_recipe_id")); // 삭제할 레시피 노트의 레시피ID
+		int recipeId = Integer.parseInt(request.getParameter("modify_recipe_id")); // 수정할 레시피 노트의 레시피ID
 		String noteContent = request.getParameter("content");
 		
 		// 레시피 노트 수정을 위한 Dao객체 생성

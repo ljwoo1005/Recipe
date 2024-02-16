@@ -19,6 +19,6 @@ public class InquiryModifyAction implements Action {
 		boolean result = new CustomerServiceDao().modifyInquiry(inquiryId, inquiryTitle, inquiryContent);
 		request.setAttribute("result", result);
 		
-		request.getRequestDispatcher("Recipe_Inquiry_Modify_Result.jsp").forward(request, response);
+		request.getRequestDispatcher("Controller?command=inquiry_modify_result").forward(request, response);
 	}
 }

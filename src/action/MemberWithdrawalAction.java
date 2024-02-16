@@ -17,9 +17,10 @@ public class MemberWithdrawalAction implements Action {
 		String loginId = (String)session.getAttribute("loginId");
 		// 로그인 아이디의 회원정보 삭제하기
 		boolean result = new MemberDao().memberWithdrawal(loginId);
+		request.setAttribute("result", result);
 		// 세션의 로그인 정보 삭제
 		session.invalidate();
 		// 결과 화면으로 이동
-		request.getRequestDispatcher("Member_Withdrawal_Result.jsp").forward(request, response);
+		request.getRequestDispatcher("Controller?command=member_withdrawal_result").forward(request, response);
 	}
 }

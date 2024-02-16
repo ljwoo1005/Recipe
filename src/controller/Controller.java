@@ -40,10 +40,10 @@ public class Controller extends HttpServlet {
 		case "logout" : action = new LogoutAction(); break;
 		case "member_check" : action = new MemberCheckAction(); break;
 		case "member_id_check" : action = new MemberIdCheckAction(); break;
-		case "member_modify_view" : action = new MemberModifyViewAction(); break;
-		case "member_password_check" : action = new MemberPasswordCheckAction(); break;
-		case "member_modify_password" : action = new MemberModifyPasswordAction(); break;
 		case "member_nickname_check" : action = new MemberNicknameCheckAction(); break;
+		case "member_password_check" : action = new MemberPasswordCheckAction(); break;
+		case "member_modify_view" : action = new MemberModifyViewAction(); break;
+		case "member_modify_password" : action = new MemberModifyPasswordAction(); break;
 		case "member_modify_nickname" : action = new MemberModifyNicknameAction(); break;
 		case "member_modify_email" : action = new MemberModifyEmailAction(); break;
 		case "member_modify_phone" : action = new MemberModifyPhoneAction(); break;
@@ -51,6 +51,7 @@ public class Controller extends HttpServlet {
 		case "member_withdrawal" : action = new MemberWithdrawalAction(); break;
 		case "member_withdrawal_kakao" : action = new MemberWithdrawalKakaoAction(); break;
 		case "member_withdrawal_naver" : action = new MemberWithdrawalNaverAction(); break;
+		case "member_withdrawal_result" : action = new MemberWithdrawalResultAction(); break;
 		case "social_login" : action = new SocialLoginAction(); break;
 		case "kakao_regist" : action = new KakaoRegistAction(); break;
 		case "naver_regist" : action = new NaverRegistAction(); break;
@@ -67,7 +68,6 @@ public class Controller extends HttpServlet {
 		case "unfollowing" : action = new UnFollowingAction(); break;
 		case "get_following" : action = new GetFollowingAction(); break;
 		case "get_follower" : action = new GetFollowerAction(); break;
-		case "modify_profile" : action = new ModifyProfileAction(); break;
 		// 레시피-쉐프 액션
 		case "chef_view" : action = new ChefViewAction(); break;
 		// 레시피-고객센터 액션
@@ -75,12 +75,12 @@ public class Controller extends HttpServlet {
 		case "help_view" : action = new HelpViewAction(); break;
 		case "inquiry_view" : action = new InquiryViewAction(); break;
 		case "inquiry_write" : action = new InquiryWriteAction(); break;
-		case "inquiry_image_upload" : action = new InquiryImageUploadAction(); break;
 		case "inquiry_write_simple" : action = new InquiryWriteSimpleAction(); break;
 		case "inquiry_write_form" : action = new InquiryWriteFormAction(); break;
 		case "inquiry_write_result" : action = new InquiryWriteResultAction(); break;
 		case "inquiry_modify" : action = new InquiryModifyAction(); break;
 		case "inquiry_modify_form" : action = new InquiryModifyFormAction(); break;
+		case "inquiry_modify_result" : action = new InquiryModifyResultAction(); break;
 		case "inquiry_delete" : action = new InquiryDeleteAction(); break;
 		// 예외페이지
 		case "page_not_found" : action = new PageNotFoundAction(); break;
