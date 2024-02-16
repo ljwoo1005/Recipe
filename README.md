@@ -110,12 +110,17 @@
 ![카카오 소셜 로그인](https://github.com/ljwoo1005/Recipe/assets/130548652/23fa8104-0245-4a77-a32f-394172303b2c)
 ### 회원가입
 - 휴대폰 & 이메일 & 네이버 캡챠 인증을 진행합니다.
+  
 ![휴대폰 인증](https://github.com/ljwoo1005/Recipe/assets/130548652/18180561-a3b5-4ac4-b4cf-92842bc8965c)
+
 ![이메일 인증](https://github.com/ljwoo1005/Recipe/assets/130548652/7665e9bb-50ec-4efd-9c5d-4c0383bba70e)
+
 ![네이버 캡챠](https://github.com/ljwoo1005/Recipe/assets/130548652/b34a90e0-ab35-434a-98c9-d1cb7bca4096)
 ### 회원정보 수정
 - 비밀번호와 닉네임을 변경합니다.
+  
 ![비밀번호 변경](https://github.com/ljwoo1005/Recipe/assets/130548652/56b9e940-ac56-4457-aa3d-088fd7f51e41)
+
 ![닉네임 변경](https://github.com/ljwoo1005/Recipe/assets/130548652/e3a2488b-1ef1-4e54-b07b-88c391840562)
 ### 마이페이지
 - 마이페이지 레시피 / 댓글 / 쉐프 페이지 입니다.
@@ -145,6 +150,7 @@
 - 문의사항 게시글 수정 & 삭제 입니다.
 - 아직 답변받지 않은 문의사항에 대하여 게시글의 수정과 삭제가 가능합니다.
 ![문의사항 수정](https://github.com/ljwoo1005/Recipe/assets/130548652/8b2aa1aa-e1fe-46b5-9398-8a8e170c648d)
+
 ![문의사항 삭제](https://github.com/ljwoo1005/Recipe/assets/130548652/1acd6ec7-08fc-43b4-bdee-388248fa7cd0)
 ### 최근 본 레시피
 - 최근 본 레시피를 모아서 보여줍니다.
