@@ -101,7 +101,7 @@
         └─lib
 </pre>
 ## 페이지별 기능
-** 이진우
+**이진우**
 ### 소셜 로그인
 - 카카오 & 네이버 소셜 로그인을 할 수 있습니다.
 
@@ -157,7 +157,7 @@
 - slick을 이용하여 슬라이드 기능을 추가하였습니다.
 ![최근 본 레시피](https://github.com/ljwoo1005/Recipe/assets/130548652/d8cdad4f-5342-4893-a71c-1b2170d0a8ae)
 
-## 오상경
+**오상경**
 ### 레시피 메인
 - 화살표 클릭 혹은 드레그시 slick을 이용하여 다른 상품들을 보여줍니다.
 ### 랭킹 페이지 
@@ -180,7 +180,7 @@
 
 시연 영상(https://www.canva.com/design/DAF82TK7_vA/ypTQf6kEBpeABW9iucfyOw/edit?utm_content=DAF82TK7_vA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-## 김하람
+**김하람**
 ### 스토어 메인
 - 화살표 클릭시 slick을 이용하여 다른 상품들을 보여줍니다.
     ![메인페이지_slick gif](https://github.com/ram9611/recipe-store-project/assets/66862342/3ae5d01f-8793-48e0-92fa-9a1e214da2cc)
