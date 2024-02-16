@@ -104,39 +104,51 @@
 ## 이진우
 ### 소셜 로그인
 - 카카오 & 네이버 소셜 로그인을 할 수 있습니다.
-  ![네이버 소셜 로그인](https://github.com/ljwoo1005/Recipe/assets/130548652/561b5e17-5dd0-41b0-bcb3-0944ae1227c4)
-  ![카카오 소셜 로그인](https://github.com/ljwoo1005/Recipe/assets/130548652/23fa8104-0245-4a77-a32f-394172303b2c)
+![네이버 소셜 로그인](https://github.com/ljwoo1005/Recipe/assets/130548652/561b5e17-5dd0-41b0-bcb3-0944ae1227c4)
+![카카오 소셜 로그인](https://github.com/ljwoo1005/Recipe/assets/130548652/23fa8104-0245-4a77-a32f-394172303b2c)
 ### 회원가입
 - 휴대폰 & 이메일 & 네이버 캡챠 인증을 진행합니다.
-  ![휴대폰 인증](https://github.com/ljwoo1005/Recipe/assets/130548652/18180561-a3b5-4ac4-b4cf-92842bc8965c)
-  ![이메일 인증](https://github.com/ljwoo1005/Recipe/assets/130548652/7665e9bb-50ec-4efd-9c5d-4c0383bba70e)
-  ![네이버 캡챠](https://github.com/ljwoo1005/Recipe/assets/130548652/b34a90e0-ab35-434a-98c9-d1cb7bca4096)
+![휴대폰 인증](https://github.com/ljwoo1005/Recipe/assets/130548652/18180561-a3b5-4ac4-b4cf-92842bc8965c)
+![이메일 인증](https://github.com/ljwoo1005/Recipe/assets/130548652/7665e9bb-50ec-4efd-9c5d-4c0383bba70e)
+![네이버 캡챠](https://github.com/ljwoo1005/Recipe/assets/130548652/b34a90e0-ab35-434a-98c9-d1cb7bca4096)
 ### 회원정보 수정
 - 비밀번호와 닉네임을 변경합니다.
-  ![비밀번호 변경](https://github.com/ljwoo1005/Recipe/assets/130548652/56b9e940-ac56-4457-aa3d-088fd7f51e41)
-  ![닉네임 변경](https://github.com/ljwoo1005/Recipe/assets/130548652/e3a2488b-1ef1-4e54-b07b-88c391840562)
+![비밀번호 변경](https://github.com/ljwoo1005/Recipe/assets/130548652/56b9e940-ac56-4457-aa3d-088fd7f51e41)
+![닉네임 변경](https://github.com/ljwoo1005/Recipe/assets/130548652/e3a2488b-1ef1-4e54-b07b-88c391840562)
 ### 마이페이지
-- 마이페이지 레시피 / 댓글 / 쉐프 페이지 입니다. 유저가 작성한 레시피와 댓글, 유저가 팔로잉중인 쉐프의 활동내역을 보여줍니다.
-  ![마이페이지 레시피 댓글 쉐프](https://github.com/ljwoo1005/Recipe/assets/130548652/420ffbce-7455-4ace-8e0c-5c234c646333)
-- 마이페이지 팔로잉레시피 페이지 입니다. 유저가 좋아요를 누른 레시피를 모아서 보여줍니다. 이 화면에서 레시피 팔로잉을 삭제할 수 있습니다.
-  ![마이페이지 팔로잉레시피](https://github.com/ljwoo1005/Recipe/assets/130548652/ec82a09d-54d5-4707-a4fb-f611cd7082fb)
-- 마이페이지 레시피노트 페이지 입니다. 유저가 레시피에 작성한 레시피노트를 모아서 보여줍니다. 이 화면에서 레시피노트를 수정 & 삭제할 수 있습니다.
-  ![마이페이지 레시피노트](https://github.com/ljwoo1005/Recipe/assets/130548652/061d2927-3f6a-45ac-9533-b66295ec60ff)
-- 마이페이지 팔로워 & 팔로잉창 무한스크롤 입니다. ajax를 이용하여 무한스크롤 기능을 구현하였습니다.
-  ![마이페이지 무한스크롤](https://github.com/ljwoo1005/Recipe/assets/130548652/5fd45217-2ce9-42b5-ae38-f83afb4b67d8)
-- 마이페이지 프로필 변경 입니다. 자기소개와 프로필 이미지를 변경할 수 있습니다.
-  ![마이페이지 프로필 변경](https://github.com/ljwoo1005/Recipe/assets/130548652/4722dbf5-9520-4341-a45b-3adfa460e375)
+- 마이페이지 레시피 / 댓글 / 쉐프 페이지 입니다.
+- 유저가 작성한 레시피와 댓글, 유저가 팔로잉중인 쉐프의 활동내역을 보여줍니다.
+![마이페이지 레시피 댓글 쉐프](https://github.com/ljwoo1005/Recipe/assets/130548652/420ffbce-7455-4ace-8e0c-5c234c646333)
+- 마이페이지 팔로잉레시피 페이지 입니다.
+- 유저가 좋아요를 누른 레시피를 모아서 보여줍니다.
+- 이 화면에서 레시피 팔로잉을 삭제할 수 있습니다.
+![마이페이지 팔로잉레시피](https://github.com/ljwoo1005/Recipe/assets/130548652/ec82a09d-54d5-4707-a4fb-f611cd7082fb)
+- 마이페이지 레시피노트 페이지 입니다.
+- 유저가 레시피에 작성한 레시피노트를 모아서 보여줍니다.
+- 이 화면에서 레시피노트를 수정 & 삭제할 수 있습니다.
+![마이페이지 레시피노트](https://github.com/ljwoo1005/Recipe/assets/130548652/061d2927-3f6a-45ac-9533-b66295ec60ff)
+- 마이페이지 팔로워 & 팔로잉창을 무한스크롤로 만들었습니다.
+- ajax를 이용하여 무한스크롤 기능을 구현하였습니다.
+![마이페이지 무한스크롤](https://github.com/ljwoo1005/Recipe/assets/130548652/5fd45217-2ce9-42b5-ae38-f83afb4b67d8)
+- 마이페이지 프로필 변경 입니다.
+- 자기소개와 프로필 이미지를 변경할 수 있습니다.
+![마이페이지 프로필 변경](https://github.com/ljwoo1005/Recipe/assets/130548652/4722dbf5-9520-4341-a45b-3adfa460e375)
 ### 고객센터
-- 공지사항 / 도움말 / 문의사항 페이지 입니다. 사이트의 공지사항과 도움말, 로그인 중인 유저가 작성한 문의사항을 보여줍니다.
-  ![고객센터](https://github.com/ljwoo1005/Recipe/assets/130548652/4b69ac00-5f2e-4a41-8cd7-0c88f45716de)
-- 문의사항 게시글 작성 입니다. 네이버 스마트에디터를 사용하여 게시글 작성을 유연하게 할 수 있습니다.
-  ![문의사항 글쓰기](https://github.com/ljwoo1005/Recipe/assets/130548652/5352b3c5-7e94-431e-a539-8cd5c3cc3a4f)
-- 문의사항 게시글 수정 & 삭제 입니다. 아직 답변받지 않은 문의사항에 대하여 게시글의 수정과 삭제가 가능합니다.
-  ![문의사항 수정](https://github.com/ljwoo1005/Recipe/assets/130548652/8b2aa1aa-e1fe-46b5-9398-8a8e170c648d)
-  ![문의사항 삭제](https://github.com/ljwoo1005/Recipe/assets/130548652/1acd6ec7-08fc-43b4-bdee-388248fa7cd0)
+- 공지사항 / 도움말 / 문의사항 페이지 입니다.
+- 사이트의 공지사항과 도움말, 로그인 중인 유저가 작성한 문의사항을 보여줍니다.
+![고객센터](https://github.com/ljwoo1005/Recipe/assets/130548652/4b69ac00-5f2e-4a41-8cd7-0c88f45716de)
+- 문의사항 게시글 작성 입니다.
+- 네이버 스마트에디터를 사용하여 게시글 작성을 유연하게 할 수 있습니다.
+![문의사항 글쓰기](https://github.com/ljwoo1005/Recipe/assets/130548652/5352b3c5-7e94-431e-a539-8cd5c3cc3a4f)
+- 문의사항 게시글 수정 & 삭제 입니다.
+- 아직 답변받지 않은 문의사항에 대하여 게시글의 수정과 삭제가 가능합니다.
+![문의사항 수정](https://github.com/ljwoo1005/Recipe/assets/130548652/8b2aa1aa-e1fe-46b5-9398-8a8e170c648d)
+![문의사항 삭제](https://github.com/ljwoo1005/Recipe/assets/130548652/1acd6ec7-08fc-43b4-bdee-388248fa7cd0)
 ### 최근 본 레시피
-- 최근 본 레시피를 모아서 보여줍니다. 레시피 상세페이지를 볼 때마다 쿠키에 해당 레시피의 정보를 저장하여 모든 페이지에서 해당 레시피를 모아서 보여줍니다. slick을 이용하여 슬라이드 기능을 추가하였습니다.
-  ![최근 본 레시피](https://github.com/ljwoo1005/Recipe/assets/130548652/d8cdad4f-5342-4893-a71c-1b2170d0a8ae)
+- 최근 본 레시피를 모아서 보여줍니다.
+- 레시피 상세페이지를 볼 때마다 쿠키에 해당 레시피의 정보를 저장하여 모든 페이지에서 해당 레시피를 모아서 보여줍니다. s
+- lick을 이용하여 슬라이드 기능을 추가하였습니다.
+![최근 본 레시피](https://github.com/ljwoo1005/Recipe/assets/130548652/d8cdad4f-5342-4893-a71c-1b2170d0a8ae)
 
 ## 오상경
 ### 레시피 메인
